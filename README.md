@@ -1,13 +1,7 @@
-# keerthin.github.io
-
-Welcome to my GitHub Portfolio!
+# 👋 Hi, I'm Keerthi!
 
 ## About Me
 I am a Data Engineering professional with experience in data modeling and analytics.
 
-## Projects
-- Activity 9.1: MIT Notebook
-- More projects coming soon!
-
-## Contact
-GitHub: keerthin
+## My Work
+[MIT Notebook](https://github.com/keerthin/PCDE-Activity-9.1)
