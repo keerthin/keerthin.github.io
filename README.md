@@ -4,4 +4,4 @@
 I am a Data Engineering professional with experience in data modeling and analytics.
 
 ## My Work
-[MIT Notebook](https://github.com/keerthin/PCDE-Activity-9.1)
+[MIT Notebook Project](https://keerthin.github.io/PCDE-Activity-9.1/)
